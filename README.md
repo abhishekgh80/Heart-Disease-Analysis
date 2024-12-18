@@ -57,7 +57,7 @@ Select important features using statistical methods and feature importance metri
 
 4. Model Building:
 
-Build machine learning models (Logistic Regression, Decision Tree, Random Forest, SVM, etc.).
+Build machine learning models Logistic Regression,Random Forest.
 
 Evaluate model performance using accuracy, precision, recall, F1-score, and ROC-AUC.
 
@@ -74,7 +74,7 @@ Summarize key findings and insights for decision-making.
 
 Results:
 
-Present the model with the best performance (e.g., Random Forest with 90% accuracy).
+Present the model with the best performance Random Forest with 100% accuracy.
 
 Show confusion matrix, ROC curve, and key metrics to support the findings.
 
