@@ -1,13 +1,13 @@
 # Heart-Disease-Analysis
-Overview
+Overview:
 
 This project aims to analyze heart disease datasets to identify significant factors contributing to heart disease and develop predictive models. By leveraging data science techniques and machine learning algorithms, the project provides insights into patterns that can help in early detection and prevention of heart disease.
 
-Problem Statement
+Problem Statement:
 
 Heart disease is one of the leading causes of death worldwide. Early diagnosis plays a crucial role in treatment and prevention. This project focuses on analyzing medical datasets to uncover trends and build models to predict the presence of heart disease.
 
-Objectives
+Objectives:
 
 Perform exploratory data analysis (EDA) to identify patterns and trends in the dataset.
 
@@ -15,7 +15,7 @@ Build and evaluate machine learning models to predict heart disease.
 
 Identify the most influential features contributing to heart disease risk.
 
-Technologies Used
+Technologies Used:
 
 Programming Language: Python
 
@@ -31,7 +31,7 @@ Jupyter Notebook for implementation and visualization.
 
 
 
-Steps/Workflow
+Steps/Workflow:
 
 1. Data Collection & Cleaning:
 
@@ -72,7 +72,7 @@ Summarize key findings and insights for decision-making.
 
 
 
-Results
+Results:
 
 Present the model with the best performance (e.g., Random Forest with 90% accuracy).
 
